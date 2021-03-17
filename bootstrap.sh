@@ -5,6 +5,8 @@
 fold="dotfiles"
 conf="config.yaml"
 
+mkdir Newfolder123
+
 # copy dotdrop entry point
 cp dotdrop/dotdrop.sh dotdrop.sh
 chmod +x dotdrop.sh
